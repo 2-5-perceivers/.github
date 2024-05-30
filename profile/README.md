@@ -12,4 +12,4 @@ We wouldn't mind expanding the organization if you want, but the name stays.
 
 ## Sponsoring
 
-Feel free to sponsor from the popular repositories which have sponsorships enabled. Or (just buy me a coffee)[https://buymeacoffee.com/raresvanca].
+Feel free to sponsor from the popular repositories which have sponsorships enabled. Or [just buy me a coffee](https://buymeacoffee.com/raresvanca).
